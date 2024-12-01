@@ -5,7 +5,7 @@
 <details>
     <summary>3,4학년 과목 담당 교수님 사인</summary>
 
-- 멘토링 사진
+![1](/img/3,4학년 과목 교수님){: width="100" height="100"}
 - 질의응답
 
 </details>
