@@ -5,7 +5,7 @@
 <details>
     <summary>3,4학년 과목 담당 교수님 사인</summary>
 
-![first](/img/3,4학년 과목 교수님.jpg)
+![first](./img/3,4학년 과목 교수님.jpg){: width="100" height="100"}
 
 </details>
 <details>
