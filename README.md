@@ -12,7 +12,7 @@
 <details>
     <summary>3,4학년 과목 담당 교수님 사인</summary>
 
-<img src="img/3,4학년_과목_교수님.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/3,4학년_과목_교수님.jpg" style="width:40%; height:auto;"></div>
 
 - 팀의 관심사 중 임베디드 시스템에 대해 알아보려고 함
   - Q. 교수님께서 '임베디드시스템설계' 과목을 담당하시는 걸로 알고 있는데, 어떤 과목인지 그리고 어떤 학생이 수강하면 좋은지 궁금합니다.
@@ -22,37 +22,37 @@
 <details>
     <summary>교수님 사인</summary>
 
-<img src="img/교수님.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/교수님.jpg" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
     <summary>행정실 사인</summary>
 
-<img src="img/행정실.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/행정실.jpg" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
     <summary>멘토링</summary>
 
-<img src="img/멘토링.png" style="width:40%; height:auto;">
+<div align="center"><img src="img/멘토링.png" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
     <summary>학과 서비스 및 서버실 탐방</summary>
 
-<img src="img/서버실.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/서버실.jpg" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
     <summary>보직 교수님 사인</summary>
 
-<img src="img/보직_교수님.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/보직_교수님.jpg" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
     <summary>대학원생 사인1</summary>
 
-<img src="img/대학원생_1.png" style="width:40%; height:auto;">
+<div align="center"><img src="img/대학원생_1.png" style="width:40%; height:auto;"></div>
 
 </details>
 <details>
@@ -65,7 +65,7 @@
 <details>
     <summary>정통처 탐방</summary>
 
-<img src="img/정통처.jpg" style="width:40%; height:auto;">
+<div align="center"><img src="img/정통처.jpg" style="width:40%; height:auto;"></div>
 
 </details>
 
