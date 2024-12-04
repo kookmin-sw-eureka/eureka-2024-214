@@ -7,6 +7,8 @@
 
 ➡️ 유레카프로젝트 활동을 즐기자!
 
+<h2><mark>팀의 관심사</mark></h2>
+<div align="center"><img src="img/관심사.png"></div>
 
 <h2><mark>진행한 활동</mark></h2>
 <details>
